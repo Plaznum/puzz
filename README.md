@@ -1,8 +1,9 @@
-# puzz
+# 8 Puzzle Program
 8 Puzzle A* algorithm
+Not really an original idea at all
 
 Built with C# in Visual Studio 2019, Tested with NUnit  
-This program was made to be an Artificial Intelegence program that utilized A* search to find and return a solution to a sliding 8 tile puzzle.  
+This program was made to utilize an A* search to find and return a solution to a sliding 8 tile puzzle.  
 ![alt text](https://puu.sh/FE4Ff/d3aab2a8ca.png)
 
 Algorithm is based on the f(n) = g(n) + h(n) function where  
