@@ -1,5 +1,5 @@
 # puzz
-8 Puzzle A* A.I algorithm
+8 Puzzle A* algorithm
 
 Built with C# in Visual Studio 2019, Tested with NUnit  
 This program was made to be an Artificial Intelegence program that utilized A* search to find and return a solution to a sliding 8 tile puzzle.  
